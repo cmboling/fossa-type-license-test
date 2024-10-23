@@ -1,9 +1,9 @@
 version: 3
 
 project:
-  locator: custom+43030/vmwoozies-fossa-type-license-test
-  id: github.com/cmboling/vmwoozies-fossa-type-license-test
-  name: vmwoozies-fossa-type-license-test
+  locator: custom+43030/marissa-fossa-type-license-test
+  id: github.com/cmboling/marissa-fossa-type-license-test
+  name: marissa-fossa-type-license-test
   labels:
     - wss
     - zookeeper
