@@ -5,5 +5,4 @@ project:
   id: github.com/cmboling/marissa-fossa-type-license-test
   name: marissa-fossa-type-license-test
   labels:
-    - wss
-    - zookeeper
+    - cmboling-test
