@@ -12,8 +12,6 @@ project:
     - cmboling-test
 ```
 
-![vmwoozies-fossa-type-license-test](https://github.com/user-attachments/assets/c1ccfa8b-ea98-4a09-ab86-024db55673ff)
-
 
 To
 
@@ -26,5 +24,3 @@ project:
   labels:
     - cmboling-test
 ```
-
-![Settings](https://github.com/user-attachments/assets/392bdf25-45ba-43a4-964a-b0a5b766d703)
