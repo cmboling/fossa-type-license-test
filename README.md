@@ -24,3 +24,6 @@ project:
   labels:
     - cmboling-test
 ```
+
+
+Note: `project.locator` doesn't seem required. `project.id` maps to the locator, and `project.name` maps to the project title.
