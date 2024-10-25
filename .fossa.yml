@@ -1,8 +1,7 @@
 version: 3
 
 project:
-  locator: custom+43030/marissa-fossa-type-license-test
-  id: github.com/cmboling/marissa-fossa-type-license-test
-  name: marissa-fossa-type-license-test
+  id: github.com/cmboling/chelsea-fossa-type-license-test
+  name: chelsea-fossa-type-license-test
   labels:
     - cmboling-test
